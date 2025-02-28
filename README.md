@@ -25,7 +25,10 @@ Beta Bank is experiencing customer churn, where clients are terminating their ac
 - Develop **data-driven retention strategies**.
 
 ## Dataset
-The dataset consists of customer records, including demographics, banking activity, and whether they churned. 
+The dataset consists of customer records, including demographics, banking activity, and whether they churned. The data is stored in the **`data/` folder**.
+
+### **Dataset File:**
+- **`data/Churn.csv`** → Customer banking records.
 
 ### **Key Features:**
 - **Demographics:** `Geography`, `Gender`, `Age`
@@ -111,4 +114,3 @@ Model evaluation was based on:
 ## Connect With Me
 - Email: rhiannon.filli@gmail.com
 - LinkedIn: linkedin.com/in/rhiannonfilli
-
